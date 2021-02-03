@@ -23,7 +23,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-This is the base demonstration for the "Create a Deployment Pipeline with AKS and GitHub Actions" learn module.
+This is the base demonstration for the "[Create a Deployment Pipeline with AKS and GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions)" learn module.
 
 ## Summary
 
