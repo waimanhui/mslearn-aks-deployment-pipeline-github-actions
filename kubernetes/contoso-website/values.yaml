@@ -1,7 +1,7 @@
 image:
-  repository: ContosoContainerRegistry27513
+  repository: <acr-name>
   name: contoso-website
   tag: latest
 
 dns:
-  name: 3488eb1e195d4abc8484.eastus.aksapp.io
+  name: <your-dns-zone-name>
