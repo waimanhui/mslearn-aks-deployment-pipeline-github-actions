@@ -5,3 +5,7 @@ image:
 
 dns:
   name: <your-dns-zone-name>
+  
+
+key:
+  value: ystQ4yk+Py6RARH5Cw6qPs37oVxfYdKR
